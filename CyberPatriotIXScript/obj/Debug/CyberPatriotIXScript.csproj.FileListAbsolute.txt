@@ -1,0 +1,9 @@
+C:\Users\Benjamin\Source\Repos\Cpatscript\WindowsFormsApplication1\CyberPatriotIXScript\bin\Debug\CyberPatriotIXScript.exe.config
+C:\Users\Benjamin\Source\Repos\Cpatscript\WindowsFormsApplication1\CyberPatriotIXScript\bin\Debug\CyberPatriotIXScript.exe
+C:\Users\Benjamin\Source\Repos\Cpatscript\WindowsFormsApplication1\CyberPatriotIXScript\bin\Debug\CyberPatriotIXScript.pdb
+C:\Users\Benjamin\Source\Repos\Cpatscript\WindowsFormsApplication1\CyberPatriotIXScript\obj\Debug\CyberPatriotIXScript.csprojResolveAssemblyReference.cache
+C:\Users\Benjamin\Source\Repos\Cpatscript\WindowsFormsApplication1\CyberPatriotIXScript\obj\Debug\CyberPatriotIXScript.Form1.resources
+C:\Users\Benjamin\Source\Repos\Cpatscript\WindowsFormsApplication1\CyberPatriotIXScript\obj\Debug\CyberPatriotIXScript.Properties.Resources.resources
+C:\Users\Benjamin\Source\Repos\Cpatscript\WindowsFormsApplication1\CyberPatriotIXScript\obj\Debug\CyberPatriotIXScript.csproj.GenerateResource.Cache
+C:\Users\Benjamin\Source\Repos\Cpatscript\WindowsFormsApplication1\CyberPatriotIXScript\obj\Debug\CyberPatriotIXScript.exe
+C:\Users\Benjamin\Source\Repos\Cpatscript\WindowsFormsApplication1\CyberPatriotIXScript\obj\Debug\CyberPatriotIXScript.pdb

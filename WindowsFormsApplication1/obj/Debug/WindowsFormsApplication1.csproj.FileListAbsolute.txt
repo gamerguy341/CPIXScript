@@ -1,0 +1,16 @@
+C:\Users\Benjamin\Source\Repos\Cpatscript\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Benjamin\Source\Repos\Cpatscript\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Benjamin\Source\Repos\Cpatscript\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Benjamin\Source\Repos\Cpatscript\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Benjamin\Source\Repos\Cpatscript\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Benjamin\Source\Repos\Cpatscript\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Benjamin\Source\Repos\Cpatscript\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Benjamin\Source\Repos\Cpatscript\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Benjamin\Source\Repos\Cpatscript\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Notepad.resources
+C:\Users\Benjamin\Source\Repos\Cpatscript\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CustomItems.dll
+C:\Users\Benjamin\Source\Repos\Cpatscript\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Benjamin\Source\Repos\Cpatscript\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CustomItems.pdb
+C:\Users\Benjamin\Source\Repos\Cpatscript\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Benjamin\Source\Repos\Cpatscript\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Checklist.resources
+C:\Users\Benjamin\Source\Repos\Cpatscript\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FixVuln.resources
+C:\Users\Benjamin\Source\Repos\Cpatscript\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainScreen.resources

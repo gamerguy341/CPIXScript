@@ -1,0 +1,7 @@
+C:\Users\Benjamin\Source\Repos\Cpatscript\WindowsFormsApplication1\CustomItems\bin\Release\CustomItems.dll
+C:\Users\Benjamin\Source\Repos\Cpatscript\WindowsFormsApplication1\CustomItems\bin\Release\CustomItems.pdb
+C:\Users\Benjamin\Source\Repos\Cpatscript\WindowsFormsApplication1\CustomItems\obj\Release\CustomItems.csprojResolveAssemblyReference.cache
+C:\Users\Benjamin\Source\Repos\Cpatscript\WindowsFormsApplication1\CustomItems\obj\Release\CustomItems.csproj.GenerateResource.Cache
+C:\Users\Benjamin\Source\Repos\Cpatscript\WindowsFormsApplication1\CustomItems\obj\Release\CustomItems.dll
+C:\Users\Benjamin\Source\Repos\Cpatscript\WindowsFormsApplication1\CustomItems\obj\Release\CustomItems.pdb
+C:\Users\Benjamin\Source\Repos\Cpatscript\WindowsFormsApplication1\CustomItems\obj\Release\CustomItems.SpecialTextBox.resources
